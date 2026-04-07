@@ -13,9 +13,7 @@ Freelance Writer specializing in Academic & Thesis Writing, Sports Writing, and 
 ---
 
 ## 📚 Academic & Thesis Writing
-
-Available upon request. I specialize in undergraduate and postgraduate-level academic writing across humanities disciplines.
-
+- [Assessing the Effectiveness of ICT Integration in Teaching and Learning — English Education, FUL](ASSESSING_ICT_INTEGRATION_FINAL.pdf)
 ---
 
 ## ✏️ Editorial Proofreading
